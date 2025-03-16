@@ -39,7 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aqoprojects/aqoprojects/output/snake.svg" alt="Snake animation" />
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
