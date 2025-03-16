@@ -40,6 +40,9 @@
 ###
 
 <img src="https://raw.githubusercontent.com/aqoprojects/aqoprojects/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/aqoprojects/aqoprojects/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+<img src="https://github.com/aqoprojects/aqoprojects/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
+
 
 ###
 
